@@ -23,8 +23,8 @@ For an accurate investigation, you need a set of advanced search engines and too
 ## HOW IT WORKS
 In this Framework, I focused on 2 types of Investigations. 
 
-a. Person and 
-b. Company/Entity.
+* Person 
+* Company/Entity
 
 You will find 2 lists with different tools or sometimes, you might use the same tool for multiple types of researches.
 
