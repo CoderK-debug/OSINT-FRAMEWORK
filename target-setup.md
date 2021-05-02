@@ -33,6 +33,6 @@ Logic Example:
 * djohn
 * doej
 
-The reason why we nned to invert the keywrods is mainly because a user can subscribe on different platforms by using his/her name in different logics. Sometime you will find an extra piece of code after the username (e.g. username1222871762 or username?id=xyz) that needs to be considered and added to the list.
+The reason why we need to invert the keywrods is mainly because a user can subscribe on different platforms by using his/her name in different logics. Sometime you will find an extra piece of code after the username (e.g. username1222871762 or username?id=xyz) that needs to be considered and added to the list.
 
 Please keep in mind that every result needs to be verified as related to the target before being considered as Positive Records. This to avoid having false Intel and Records about the target.
