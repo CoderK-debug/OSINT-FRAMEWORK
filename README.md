@@ -12,7 +12,7 @@ You will find 2 lists with different tools or sometimes, you might use the same 
 
 
 ### MAIN NOTES
-I have listed free, Freemium and Premium tools. This means certain tools will need to be unlocked with a subscription or a once-off payement.
+I have listed Free, Freemium and Premium tools. This means certain tools will need to be unlocked with a subscription or a once-off payement.
 
 
 ### DISCLAIMER
