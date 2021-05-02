@@ -33,7 +33,7 @@ I have listed Free, Freemium and Premium tools. This means certain tools will ne
 ## DISCLAIMER
 This Framework is published for ethical and educational purposes. I am not responsible of any misuse of the Framework. Also, tools and technics are beyond my control.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at coderk@protonmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting me at coderk@protonmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. I will maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 ## CONTACTS
 Contact me by email: coderk@protonmail.com
