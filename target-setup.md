@@ -37,7 +37,9 @@ Logic Example:
 * j-doe
 * jdoe
 * johnd
+* djohn
+* doej
 
 The reason why we invert the keywrods is mainly because a user can subscribe on different platforms by using his/her name in different logics. Sometime you will find an extra piece of code after the username (e.g. username1222871762 or username?id=xyz) that needs to be considered and added to the list.
 
-Please keep in mind that every result needs to be verified as related to the target.
+Please keep in mind that every result needs to be verified as related to the target before being considered as part of the list. This to avoid havinf records not related to the target.
