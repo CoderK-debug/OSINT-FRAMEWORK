@@ -1,12 +1,9 @@
 # OSINT FRAMEWORK
 An OSINT Framewrok made for fast and effective results.
 
-1. STEP 1: Setting Up your Target(s)
-
-
 | STEP  | TABLE |
 | ----- | ----- |
-| 1  | Setting Up the Target Logic  |
+| 1  | [Setting Up the Target Logic](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/target-setup.md)  |
 | 1.1  | Pre-Recon  |
 | 1.2  | Interaction With Target  |
 
