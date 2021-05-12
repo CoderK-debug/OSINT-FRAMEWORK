@@ -16,7 +16,9 @@ Below, is a list of online tools and websites we will be using to identify our T
 * Scenario 4: We have nothing about the Target(s) but files (e.g. PDF, Docx, etc), email(s) address(es), SMS (overwritten) or other types of communication platforms.
 * Scenario 5: We found a Virus, Trojan, Malware or pieace of software that is considered malicious and listenning to our devices.
 
-All of the above listed scenarios will need us to focus on what we exactly want to know. This by being realistic! Some Target(s) used advanced methods to perform attacks, some did it by using public devices, and others by simply using their own devices without any kind of security.
+All of the above listed scenarios will need us to focus on what we exactly want to know. 
+
+> This by being realistic! Some Target(s) used advanced methods to perform attacks, some did it by using public devices, and others by simply using their own devices without any kind of security.
 
 Nothing is guaranteed in an Investigation process if advanced interaction with the Target(s) and social engineering is not performed.
 
