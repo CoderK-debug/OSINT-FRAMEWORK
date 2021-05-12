@@ -4,7 +4,7 @@ An OSINT Framewrok made for fast and effective results.
 | STEP  | TABLE |
 | ----- | ----- |
 | 1  | [Setting Up the Target Logic](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/target-setup.md)  |
-| 1.1  | Pre-Recon  |
+| 1.1  | [Pre-Recon](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/Pre-Recon.MD)  |
 | 1.2  | Interaction With Target  |
 
 ## INTRODUCTION
