@@ -34,10 +34,10 @@ Let us start by making sure we take the right first steps in each Scenario:
 Covered Topics:
 
 - [x] Scenario 1
-- [ ] Scenario 2
-- [ ] Scenario 3
-- [ ] Scenario 4
-- [ ] Scenario 5
+- [ ] Scenario 2 (coming soon)
+- [ ] Scenario 3 (coming soon)
+- [ ] Scenario 4 (coming soon)
+- [ ] Scenario 5 (coming soon)
 
 
 # B.A. PRE-RECON SCENARIO 1
