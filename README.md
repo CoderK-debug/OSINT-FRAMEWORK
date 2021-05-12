@@ -4,10 +4,11 @@ An OSINT Framewrok made for fast and effective results.
 1. STEP 1: Setting Up your Target(s)
 
 
-| STEP  | Second Header |
-| ------------- | ----- |
+| STEP  | TABLE |
+| ----- | ----- |
 | 1  | Setting Up the Target Logic  |
-| 2  | Pre-Recon  |
+| 1.1  | Pre-Recon  |
+| 1.2  | Interaction With Target  |
 
 ## INTRODUCTION
 For an accurate investigation, you need a set of advanced search engines and tools. These assets are deployed in different ways and will require certain Linux Operating Systems, Dependencies and Devices.
