@@ -13,7 +13,7 @@ Below, is a list of online tools and websites we will be using to identify our T
 * Scenario 1: We have a Picture of the Target(s) and Nothing Else;
 * Scenario 2: We have just the Name of the Target(s) but an idea of the industry or area he/she/they lives in (Note that sometime Target(s) desguise with different names and nicknames);
 * Scenario 3: We have the Target(s) phone number(s) but nothing else;
-* Scenario 4: We have nothing about the Target(s) but files (e.g. PDF, Docx, etc), email(s) address(es), SMS (overwritten) or other types of communication platforms.
+* Scenario 4: We have nothing about the Target(s) but files (e.g. PDF, Docx, etc), email(s) address(es), SMS (overwritten) or other types of evidences.
 * Scenario 5: We found a Virus, Trojan, Malware or piece of software that is considered malicious and listenning to our devices.
 
 All of the above listed scenarios will need us to focus on what we exactly want to know. 
@@ -33,12 +33,15 @@ Let us start by making sure we take the right first steps in each Scenario:
 
 **Covered Topics:**
 
-- [x] Scenario 1
+- [x] Scenario 1 (started)
 - [ ] Scenario 2 (coming soon)
 - [ ] Scenario 3 (coming soon)
 - [ ] Scenario 4 (coming soon)
 - [ ] Scenario 5 (coming soon)
 
 
-# B.A. PRE-RECON SCENARIO 1
+# B.A. PRE-RECON ON SCENARIO 1
 
+We have one or multiple pictures of the Target(s). This means we can search and match the results/findings with our existing records. We will use online tools to start with:
+
+* #
