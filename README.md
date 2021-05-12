@@ -6,8 +6,8 @@ Before going through the Table, Please Start by setting up your working environm
 | STEP  | TABLE |
 | ----- | ----- |
 | 1  | [Setting Up the Target Logic](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/target-setup.md)  |
-| 1.1  | [Pre-Recon / Status: Started](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/Pre-Recon.MD)  |
-| 1.2  | Interaction With Target / Status: Coming Soon  |
+| 1.1  | [Pre-Recon](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/Pre-Recon.MD)  |
+| 1.2  | Interaction With Target(s)  |
 
 ## INTRODUCTION
 For an accurate investigation, you need a set of advanced search engines and tools. These assets are deployed in different ways and will require certain Linux Operating Systems, Dependencies and Devices.
