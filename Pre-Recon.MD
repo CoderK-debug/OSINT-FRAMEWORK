@@ -31,7 +31,7 @@ Let us start by making sure we take the right first steps in each Scenario:
 * Scenario 3: We want to make sure we do not flood the Target(s) and draw a realistic plan before performing any direct interaction;
 * Scenarios 4 and 5: In both cases we want to make sure the Files are stored in secure spaces or in a virtual machines to avoid infecting more devices and reduce the damage. But what if you think of acting as you did not find out and reverse the the attack on the attacker(s) in a smarter way! It is all up to you...
 
-Covered Topics:
+**Covered Topics:**
 
 - [x] Scenario 1
 - [ ] Scenario 2 (coming soon)
