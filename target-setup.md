@@ -2,7 +2,7 @@
 For an accurate investigation, you need to start by setting up the target logic.
 This by making a list of keywords, usernames, communication channels and contacts in a friendly way.
 
-# SHORT SMART STEP BY STEP
+# SHORT SMART STEPS BEFORE STARTING
 
 1. Pre-Recon the target;
 2. Interaction with the Target; and,
