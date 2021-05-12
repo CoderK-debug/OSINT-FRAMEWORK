@@ -1,6 +1,8 @@
 # OSINT FRAMEWORK
 An OSINT Framewrok made for fast and effective results.
 
+Before going through the Table, Please Start by setting up your working environment by following the instructions on this [Page](#).
+
 | STEP  | TABLE |
 | ----- | ----- |
 | 1  | [Setting Up the Target Logic](https://github.com/CoderK-debug/OSINT-FRAMEWORK/blob/main/target-setup.md)  |
