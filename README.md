@@ -32,7 +32,7 @@ You will find 2 lists with different tools or sometimes, you might use the same 
 I have listed Free, Freemium and Premium tools. This means certain tools will need to be unlocked with a subscription or a once-off payement.
 
 ## DISCLAIMER
-This Framework is published for ethical and educational purposes. I am not responsible of any misuse of the Framework. Also tools, payloads and ceratin technics are beyond my control.
+This Framework is published and updated for ethical or educational purposes only. I am not responsible of any misuse of the Framework. Tools, payloads and ceratin technics/methods are beyond my control.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting me at coderk@protonmail.com. 
 
