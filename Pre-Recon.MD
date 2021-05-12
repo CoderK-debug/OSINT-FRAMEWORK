@@ -26,9 +26,19 @@ Nothing is guaranteed in an Investigation process if advanced interaction with t
 
 Let us start by making sure we take the right first steps in each Scenario:
 
-* Scenario 1: Nothing beside of making sure the picture is well stored and secure (this to keep any metadata/records related to it/them if viable);
+* Scenario 1: Nothing beside of making sure the picture is perfectly stored and secure (this to keep any metadata/records related to it/them if viable);
 * Scenario 2: Making sure we have the real name(s) of the Target(s) and hints on the industries, locations and realtions or networks related;
 * Scenario 3: We want to make sure we do not flood the Target(s) and draw a realistic plan before performing any direct interaction;
 * Scenarios 4 and 5: In both cases we want to make sure the Files are stored in secure spaces or in a virtual machines to avoid infecting more devices and reduce the damage. But what if you think of acting as you did not find out and reverse the the attack on the attacker(s) in a smarter way! It is all up to you...
 
+Covered Topics:
+
+- [x] Scenario 1
+- [ ] Scenario 2
+- [ ] Scenario 3
+- [ ] Scenario 4
+- [ ] Scenario 5
+
+
+# B.A. PRE-RECON SCENARIO 1
 
